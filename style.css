@@ -3,8 +3,8 @@
     padding: 0;
 }
 .cabeçalho{
-    background-color:rgb(224, 59, 59);
-color: white;
+    background-color:rgb(0, 26, 255);
+color: rgb(24, 21, 21);
 display: flex ;
 justify-content: space-around; 
 align-items: center;
@@ -16,8 +16,19 @@ padding: 24px;
     font-size: 24px;
   }
  .cabeçalho-imagem{
-    width: 20%;
+    width: 15%;
  }
+.escola-imagem {
+  width: 25%;
+}
+.Escola{
+  background-image: linear-gradient(#42461,#16CFF8);
+  color
+  displa
+}
 
-    
-
+display:flex
+justify-content:center;
+align-items:center;
+padding: 24px 0;
+}
